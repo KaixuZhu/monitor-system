@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/huanshu-service/pom.xml" />
+        <option value="$PROJECT_DIR$/huanshu-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/jieshu-service-provider - 副本/pom.xml" />
+        <option value="$PROJECT_DIR$/monitor-email/pom.xml" />
+        <option value="$PROJECT_DIR$/monitor-mailservice/pom.xml" />
+        <option value="$PROJECT_DIR$/monitor-authService/pom.xml" />
+        <option value="$PROJECT_DIR$/monitor-authservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/monitor-authservice/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/huanshu-api-A/pom.xml" />
+        <option value="$PROJECT_DIR$/huanshu-api-B/pom.xml" />
+        <option value="$PROJECT_DIR$/huanshu-service-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/huanshu-service/pom.xml" />
+        <option value="$PROJECT_DIR$/jieshu-api-B/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/../test" />
+  </component>
+</project>

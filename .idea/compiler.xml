@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="monitor-api" />
+        <module name="monitor-mailService" />
+        <module name="monitor-service-provider" />
+        <module name="monitor-service" />
+        <module name="monitor-authservice" />
+        <module name="monitor-mailservice-provider" />
+        <module name="monitor-authservice-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="booksystem" target="1.8" />
+      <module name="huanshu-api-A" target="1.5" />
+      <module name="huanshu-api-B" target="1.5" />
+      <module name="huanshu-service" target="1.5" />
+      <module name="huanshu-service-provider" target="1.5" />
+      <module name="jieshu-api-A" target="1.5" />
+      <module name="jieshu-api-B" target="1.5" />
+      <module name="jieshu-service" target="1.5" />
+      <module name="jieshu-service (1)" target="1.8" />
+      <module name="jieshu-service (2)" target="1.8" />
+      <module name="jieshu-service-provider" target="1.8" />
+      <module name="jieshu-service-provider (1)" target="1.8" />
+      <module name="jieshu-service-provider (2)" target="1.8" />
+      <module name="monitor-emailService-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="huanshu-api-A" options="" />
+      <module name="huanshu-api-B" options="" />
+      <module name="huanshu-service" options="" />
+      <module name="huanshu-service-provider" options="" />
+      <module name="jieshu-api-A" options="" />
+      <module name="jieshu-api-B" options="" />
+      <module name="jieshu-service" options="" />
+      <module name="jieshu-service (1)" options="-parameters" />
+      <module name="jieshu-service (2)" options="-parameters" />
+      <module name="jieshu-service-provider" options="-parameters" />
+      <module name="jieshu-service-provider (1)" options="-parameters" />
+      <module name="jieshu-service-provider (2)" options="-parameters" />
+      <module name="monitor-api" options="-parameters" />
+      <module name="monitor-authservice" options="-parameters" />
+      <module name="monitor-authservice-provider" options="-parameters" />
+      <module name="monitor-emailService-provider" options="-parameters" />
+      <module name="monitor-mailService" options="-parameters" />
+      <module name="monitor-mailservice-provider" options="-parameters" />
+      <module name="monitor-service" options="-parameters" />
+      <module name="monitor-service-provider" options="-parameters" />
+    </option>
+  </component>
+</project>

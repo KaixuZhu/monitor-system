@@ -1,0 +1,328 @@
+2023-12-26 01:17:15.417|WARN |monitor-mailservice|22832||c.a.d.c.s.b.f.a.ServiceAnnotationBeanPostProcessor|265 | [DUBBO] The BeanDefinition[Root bean: class [com.alibaba.dubbo.config.spring.ServiceBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] of ServiceBean has been registered with name : ServiceBean:mailServiceImpl:com.zr.mailmonitor.service.MailService, dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:23:16.088|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:25:05.322|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:36:15.867|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:37:46.863|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:37:59.311|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:43:41.377|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:46:12.229|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:56:49.902|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 01:58:03.703|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:23:42.371|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:24:56.510|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:27:00.600|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:29:33.274|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:35:24.727|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:36:42.602|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:44:19.961|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:54:28.729|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:55:05.828|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:55:52.616|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:56:10.597|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 02:57:35.657|WARN |monitor-mailservice|22832||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.65.103.148:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.65.103.148
+2023-12-26 17:28:14.194|WARN |monitor-mailservice|5968||c.a.d.c.s.b.f.a.ServiceAnnotationBeanPostProcessor|265 | [DUBBO] The BeanDefinition[Root bean: class [com.alibaba.dubbo.config.spring.ServiceBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] of ServiceBean has been registered with name : ServiceBean:mailServiceImpl:com.zr.mailmonitor.service.MailService, dubbo version: 2.6.2, current host: 10.85.1.30
+2023-12-26 18:09:32.299|WARN |monitor-mailservice|5968||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.85.1.30:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.85.1.30
+2023-12-26 18:10:57.374|WARN |monitor-mailservice|13964||c.a.d.c.s.b.f.a.ServiceAnnotationBeanPostProcessor|265 | [DUBBO] The BeanDefinition[Root bean: class [com.alibaba.dubbo.config.spring.ServiceBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] of ServiceBean has been registered with name : ServiceBean:mailServiceImpl:com.zr.mailmonitor.service.MailService, dubbo version: 2.6.2, current host: 10.85.1.30
+2023-12-26 18:16:25.003|WARN |monitor-mailservice|13964||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /10.85.1.30:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 10.85.1.30
+2023-12-26 23:02:59.509|WARN |monitor-mailservice|23164||c.a.d.c.s.b.f.a.ServiceAnnotationBeanPostProcessor|265 | [DUBBO] The BeanDefinition[Root bean: class [com.alibaba.dubbo.config.spring.ServiceBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] of ServiceBean has been registered with name : ServiceBean:mailServiceImpl:com.zr.mailmonitor.service.MailService, dubbo version: 2.6.2, current host: 192.168.1.102
+2023-12-26 23:13:41.227|WARN |monitor-mailservice|23164||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /192.168.1.102:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 192.168.1.102
+2023-12-26 23:49:43.976|WARN |monitor-mailservice|23164||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /192.168.1.102:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 192.168.1.102
+2023-12-26 23:50:24.817|WARN |monitor-mailservice|11580||c.a.d.c.s.b.f.a.ServiceAnnotationBeanPostProcessor|265 | [DUBBO] The BeanDefinition[Root bean: class [com.alibaba.dubbo.config.spring.ServiceBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] of ServiceBean has been registered with name : ServiceBean:mailServiceImpl:com.zr.mailmonitor.service.MailService, dubbo version: 2.6.2, current host: 192.168.1.102
+2023-12-26 23:57:39.986|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server 127.0.0.1/127.0.0.1:2181, unexpected error, closing socket connection and attempting reconnect
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:380)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doIO(ClientCnxnSocketNIO.java:68)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:366)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:57:43.701|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:57:45.124|ERROR|monitor-mailservice|11580||o.a.c.ConnectionState    |228 |Connection timed out for connection string (127.0.0.1:2181) and timeout (5000) / elapsed (5034)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:225)
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:94)
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2023-12-26 23:57:46.139|ERROR|monitor-mailservice|11580||o.a.c.ConnectionState    |228 |Connection timed out for connection string (127.0.0.1:2181) and timeout (5000) / elapsed (6051)
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:225)
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:94)
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2023-12-26 23:57:46.143|ERROR|monitor-mailservice|11580||o.a.c.f.i.CuratorFrameworkImpl|557 |Background operation retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.zookeeper.KeeperException.create(KeeperException.java:99)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.checkBackgroundRetry(CuratorFrameworkImpl.java:728)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:857)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2023-12-26 23:57:46.146|ERROR|monitor-mailservice|11580||o.a.c.f.i.CuratorFrameworkImpl|557 |Background retry gave up
+org.apache.curator.CuratorConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at org.apache.curator.ConnectionState.checkTimeouts(ConnectionState.java:225)
+	at org.apache.curator.ConnectionState.getZooKeeper(ConnectionState.java:94)
+	at org.apache.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:117)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.performBackgroundOperation(CuratorFrameworkImpl.java:835)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:809)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl.access$300(CuratorFrameworkImpl.java:64)
+	at org.apache.curator.framework.imps.CuratorFrameworkImpl$4.call(CuratorFrameworkImpl.java:267)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2023-12-26 23:57:47.851|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:57:51.410|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:57:55.523|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:57:59.212|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:03.185|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:07.124|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:11.028|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:14.242|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:17.790|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:21.374|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:24.698|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:28.265|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:31.554|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:35.491|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:39.099|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:43.178|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:46.929|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:50.636|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:53.895|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:58:57.186|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:00.967|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:04.502|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:08.629|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:11.835|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:15.176|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:18.482|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:22.040|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:22.987|WARN |monitor-mailservice|11580||c.a.d.r.t.AbstractServer |205 | [DUBBO] All clients has discontected from /192.168.1.102:20882. You can graceful shutdown now., dubbo version: 2.6.2, current host: 192.168.1.102
+2023-12-26 23:59:25.686|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:29.805|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:33.631|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:36.854|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:41.006|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:44.888|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:48.544|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:52.035|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:55.304|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2023-12-26 23:59:59.153|WARN |monitor-mailservice|11580||o.a.z.ClientCnxn         |1162|Session 0x1000fb921d7000f for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)

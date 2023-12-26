@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<configuration scan="true" scanPeriod="60 seconds" debug="false" packingData="false">
+
+    <property name="serverName" value="monitor-mailservice"></property>
+
+    <property name="separator" value="|"/>
+
+    <!-- 设置日志格式 -->
+    <property name="CONSOLE_LOG_PATTERN" value="%d{yyyy-MM-dd HH:mm:ss.SSS}${separator}%-5level${separator}${serverName}${separator}${PID}${separator}%X{requestId}${separator}%-25logger{20}${separator}%-4line${separator}%msg%n"/>
+
+
+    <!--控制台输出日志设置-->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+        <!--encoder：指定输出日志格式化和字符集-->
+        <encoder>
+            <pattern>${CONSOLE_LOG_PATTERN}</pattern>
+            <charset>UTF-8</charset>
+        </encoder>
+    </appender>
+
+    <appender name="infoLog" class="ch.qos.logback.core.rolling.RollingFileAppender">
+
+        <!--日志文件的路径-->
+        <File>../monitorsystem/monitor-mailservice-provider/src/main/logs/info.log</File>
+
+
+        <!--encoder：指定输出日志格式化和字符集-->
+        <encoder>
+            <charset>UTF-8</charset>
+            <pattern>${CONSOLE_LOG_PATTERN}</pattern>
+        </encoder>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <!--文件路径,定义了日志的切分方式——把每一天的日志归档到一个文件中-->
+            <FileNamePattern>../monitorsystem/monitor-mailservice-provider/src/main/logs/arch/info/info.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+
+            <!--日志保留时长（天）-->
+            <maxHistory>30</maxHistory>
+
+            <!--单个日志文件最大容量-->
+            <maxFileSize>100MB</maxFileSize>
+
+            <cleanHistoryOnStart>false</cleanHistoryOnStart>
+        </rollingPolicy>
+
+    </appender>
+
+    <appender name="errorLog" class="ch.qos.logback.core.rolling.RollingFileAppender">java
+
+        <filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+            <level>WARN</level>
+        </filter>
+
+        <File>../monitorsystem/monitor-mailservice-provider/src/main/logs/error.log</File>
+        <!--滚动策略，按照时间滚动 TimeBasedRollingPolicy-->
+        <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
+            <FileNamePattern>../monitorsystem/monitor-mailservice-provider/src/main/logs/arch/error/error.%d{yyyy-MM-dd}.%i.log</FileNamePattern>
+            <maxFileSize>100MB</maxFileSize>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+
+        <encoder>
+            <charset>UTF-8</charset>
+            <pattern>${CONSOLE_LOG_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="grpc-log" class="org.apache.skywalking.apm.toolkit.log.logback.v1.x.log.GRPCLogClientAppender">
+        <encoder class="ch.qos.logback.core.encoder.LayoutWrappingEncoder">
+            <layout class="org.apache.skywalking.apm.toolkit.log.logback.v1.x.mdc.TraceIdMDCPatternLogbackLayout">
+                <Pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%X{tid}] [%thread] %-5level %logger{36} -%msg%n</Pattern>
+            </layout>
+        </encoder>
+    </appender>
+
+
+
+    <root level="info">
+        <appender-ref ref="console"/>
+        <appender-ref ref="infoLog"/>
+        <appender-ref ref="errorLog"/>
+        <appender-ref ref="grpc-log"/>
+    </root>
+
+</configuration>
+

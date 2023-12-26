@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper    
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"    
+    "https://www.mybatis.org/dtd/mybatis-3-mapper.dtd">
+    
+<mapper namespace="com.zr.monitor.mapper.ReportMapper">
+	<select id="getReportByTime" resultType="com.zr.monitor.entity.Report">
+		SELECT * FROM defectreports WHERE ReportDateTime=#{time};
+	</select>
+	<select id="getReportByStation" resultType="com.zr.monitor.entity.Report">
+		SELECT * FROM defectreports WHERE WorkStationID=#{StationID};
+	</select>
+	<select id="getReportByComponent" resultType="com.zr.monitor.entity.Report">
+		SELECT * FROM defectreports WHERE ComponentID=#{ComponentID};
+	</select>
+</mapper>

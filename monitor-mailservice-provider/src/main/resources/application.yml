@@ -1,0 +1,31 @@
+server:
+  port: 9004
+spring:
+  mail:
+    host: smtp.qq.com
+    protocol: smtp
+    default-encoding: UTF-8
+    username: 1347921101@qq.com
+    password: rzmuwuyoqgrehjbh
+    test-connection: true
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+#  servlet:不涉及发送附件，注释掉
+#    multipart:
+#      max-file-size: 10MB
+#      max-request-size: 10MB
+dubbo:
+  application:
+    name: monitor-mailservice-provider
+  registry:
+    protocal: zookeeper
+    address: zookeeper://127.0.0.1:2181
+  protocol:
+    name: dubbo
+    port: 20882
+  scan: com.zr.mailmonitor.service.impl
