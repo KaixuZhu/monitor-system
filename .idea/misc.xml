@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/monitor-authService/pom.xml" />
         <option value="$PROJECT_DIR$/monitor-authservice-provider/pom.xml" />
         <option value="$PROJECT_DIR$/monitor-authservice/pom.xml" />
+        <option value="$PROJECT_DIR$/monitor-recordservice/pom.xml" />
+        <option value="$PROJECT_DIR$/monitor-recordservice-provider/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

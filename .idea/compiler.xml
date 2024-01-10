@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="monitor-recordservice-provider" />
         <module name="monitor-api" />
         <module name="monitor-mailService" />
         <module name="monitor-service-provider" />
@@ -14,6 +15,7 @@
         <module name="monitor-authservice" />
         <module name="monitor-mailservice-provider" />
         <module name="monitor-authservice-provider" />
+        <module name="monitor-recordservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -53,6 +55,8 @@
       <module name="monitor-emailService-provider" options="-parameters" />
       <module name="monitor-mailService" options="-parameters" />
       <module name="monitor-mailservice-provider" options="-parameters" />
+      <module name="monitor-recordservice" options="-parameters" />
+      <module name="monitor-recordservice-provider" options="-parameters" />
       <module name="monitor-service" options="-parameters" />
       <module name="monitor-service-provider" options="-parameters" />
     </option>

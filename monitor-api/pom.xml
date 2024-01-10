@@ -21,6 +21,11 @@
 		</dependency>
 		<dependency>
 			<groupId>monitorsystem</groupId>
+			<artifactId>monitor-recordservice</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>monitorsystem</groupId>
 			<artifactId>monitor-mailService</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>

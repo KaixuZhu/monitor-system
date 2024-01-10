@@ -5,6 +5,7 @@ import com.zr.mailmonitor.entity.Email;
 import com.zr.monitor.entity.Report;
 import com.zr.mailmonitor.service.MailService;
 import com.zr.monitor.utils.MyJson;
+import oracle.jrockit.jfr.Recording;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -13,6 +14,7 @@ import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 
 import java.util.List;
+import java.util.concurrent.RecursiveAction;
 
 /**
  * 邮件服务的实现类，用于发送警告邮件。
