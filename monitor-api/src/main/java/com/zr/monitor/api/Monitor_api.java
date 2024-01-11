@@ -23,11 +23,20 @@ public class Monitor_api {
 	@Reference(timeout = 10000)
 	private MailService mailService;
 
-	@Reference
+	@Reference(timeout = 5000)
 	private RecordService recordService;
 
+	/**
+	 * 根据记录判断是否缺陷，并发送预警邮件
+	 *
+	 * @param recordId 记录id
+	 * @param componentId 部件id
+	 * @param stationId 工作站id
+	 * @param status 状态
+	 * @return 包含报告信息和状态消息的 MyJson 对象
+	 */
 	@PostMapping("/checkRecord")
-	public MyJson<List<Report>> addRecord(@RequestParam Integer recordId, @RequestParam Integer componentId, @RequestParam Integer stationId, @RequestParam String status){
+	public MyJson<List<Report>> checkRecord(@RequestParam Integer recordId, @RequestParam Integer componentId, @RequestParam Integer stationId, @RequestParam String status){
 		MyJson<List<Report>> myJson= recordService.checkRecord(recordId,componentId,stationId,status);
 		if(myJson.getData()!=null){
 			myJson = mailService.sendWarningMail(myJson);
@@ -36,7 +45,7 @@ public class Monitor_api {
 	}
 
 	/**
-	 * 根据时间检测信息，并发送预警邮件
+	 * 根据时间查找报告，并发送预警邮件
 	 *
 	 * @param time 时间参数
 	 * @return 包含报告信息和状态消息的 MyJson 对象
@@ -51,7 +60,7 @@ public class Monitor_api {
 	}
 
 	/**
-	 * 根据站点ID检测信息，并发送预警邮件
+	 * 根据站点ID查找报告，并发送预警邮件
 	 *
 	 * @param StationID 站点ID参数
 	 * @return 包含报告信息和状态消息的 MyJson 对象
@@ -66,7 +75,7 @@ public class Monitor_api {
 	}
 
 	/**
-	 * 根据组件ID检测信息，并发送预警邮件
+	 * 根据组件ID查找报告，并发送预警邮件
 	 *
 	 * @param ComponentID 组件ID参数
 	 * @return 包含报告信息和状态消息的 MyJson 对象
